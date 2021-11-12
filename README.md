@@ -13,6 +13,9 @@ Some things I've written:
 - [🌒 Shadow requesting for great good](https://medium.com/carwow-product-engineering/shadow-requesting-for-great-good-92cde331363a)
 - [🚀 Speeding up our deploys by ~35%](https://medium.com/carwow-product-engineering/speeding-up-our-heroku-deploys-by-35-percent-f9fa6f6cf404)
 
+Some things I've said:
+- [💥 "Failing Better: Load Shedding & Deadline Propagation" @ LRUG November 2021](https://assets.lrug.org/videos/2021/november/christian-gregg-failing-better-with-load-shedding-and-deadline-propagation-across-services-lrug-nov-2021.mp4)
+
 You can see my profesh side on [LinkedIn].
 
 [GitHub]: https://github.com/github
