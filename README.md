@@ -1,8 +1,12 @@
 ### Hi there 🌊
 
-My name's Christian (he/him), I'm a developer on the Actions Core team @ [GitHub]
+My name's Christian (he/him), I'm part of the engineering team @ [Lollipop],
+helping you and your household eat and shop more healthily and sustainably. 🍭
 
-I used to work  @ [carwow], helping to build the best online car-buying experience.
+I used to be a developer on the Actions Core team @ [GitHub], helping you and
+your team automate all the things and deliver value faster more easily. 🤖
+
+Before that I was  @ [carwow], helping to build the best online car-buying experience. 🚙
 
 You can find some stuff I've written about in [/posts] and talk to me [@CGA1123]!
 
@@ -18,6 +22,7 @@ Some things I've said:
 
 You can see my profesh side on [LinkedIn].
 
+[Lollipop]: https://github.com/lollipopai
 [GitHub]: https://github.com/github
 [carwow]: https://github.com/carwow
 [@CGA1123]: https://twitter.com/CGA1123
