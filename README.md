@@ -16,9 +16,11 @@ Some things I've written:
 - [🗜Reducing Rails Memory Usage by ~15%](https://blog.bissy.io/posts/reducing_rails_memory_usage_by_15_percent/)
 - [🌒 Shadow requesting for great good](https://blog.bissy.io/posts/shadow_request_for_great_good/)
 - [🚀 Speeding up our deploys by ~35%](https://blog.bissy.io/posts/speeding_up_heroku_deploys/)
+- [🚢 Ship faster with git-tree based caching](https://blog.bissy.io/posts/merge_to_deploy_in_a_minute/)
 
 Some things I've said:
 - [💥 "Failing Better: Load Shedding & Deadline Propagation" @ LRUG November 2021](https://assets.lrug.org/videos/2021/november/christian-gregg-failing-better-with-load-shedding-and-deadline-propagation-across-services-lrug-nov-2021.mp4)
+- [Running full builds after merging? 🥱: Ship faster with git tree based caching @ LRUG March 2022](https://assets.lrug.org/videos/2022/march/christian-gregg-running-full-builds-after-merging-ship-faster-with-git-tree-based-caching-lrug-mar-2022.mp4)
 
 You can see my profesh side on [LinkedIn].
 
