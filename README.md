@@ -1,6 +1,6 @@
 ### Hi there 🌊
 
-My name's Christian (he/him), I'm part of the engineering team @ [Lollipop],
+My name's Christian (he/him), I'm part of the engineering team @ [Cherrypick (previously Lollipop)],
 helping you and your household eat and shop more healthily and sustainably. 🍭
 
 I used to be a developer on the Actions Core team @ [GitHub], helping you and
@@ -24,7 +24,7 @@ Some things I've said:
 
 You can see my profesh side on [LinkedIn].
 
-[Lollipop]: https://github.com/lollipopai
+[Cherrypick (previously Lollipop)]: https://github.com/lollipopai
 [GitHub]: https://github.com/github
 [carwow]: https://github.com/carwow
 [@CGA1123]: https://twitter.com/CGA1123
