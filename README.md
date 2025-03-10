@@ -1,6 +1,9 @@
 ### Hi there 🌊
 
-My name's Christian (he/him), I'm part of the engineering team @ [Cherrypick (previously Lollipop)],
+My name's Christian (he/him), I'm part of the Platform team @ [Fresha] helping
+the developers there build the best booking experience for wellness. 💅
+
+I was part of the engineering team @ [Cherrypick (previously Lollipop)],
 helping you and your household eat and shop more healthily and sustainably. 🍭
 
 I used to be a developer on the Actions Core team @ [GitHub], helping you and
@@ -24,6 +27,7 @@ Some things I've said:
 
 You can see my profesh side on [LinkedIn].
 
+[Fresha]: https://github.com/surgeventures
 [Cherrypick (previously Lollipop)]: https://github.com/lollipopai
 [GitHub]: https://github.com/github
 [carwow]: https://github.com/carwow
